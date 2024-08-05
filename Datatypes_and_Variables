@@ -1,0 +1,45 @@
+// Task#1
+var mohan = 25;
+console.log(mohan);
+// task#2
+let geeta = 15;
+console.log(geeta);
+// Task#3
+const Sunil  = true;
+console.log(Sunil);
+// Task#4
+var a = 10;
+var S = "Mohan";
+var K = true;
+var l = [2, 4, 45, 448];
+var ab = {
+    name:  mohan,
+    age:  22,
+    isMarried: true,
+}
+console.log(typeof a);
+console.log(typeof S);
+console.log(typeof K);
+console.log(typeof l);
+console.log(typeof ab);
+// Task#5
+let Number = 10;
+console.log(Number);
+Number = 20;
+console.log(Number);
+// Task#6
+// Understanding errors through const
+const Myerror = 10;
+console.log(Myerror);
+try {
+    Myerror = 15;
+    
+} catch (error) {
+    console.log(error);
+    
+}
+console.log(Myerror);
+
+
+
+
